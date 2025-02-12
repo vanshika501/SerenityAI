@@ -1,0 +1,12 @@
+# .gitignore
+
+# Ignore virtual environment directory
+.venv/
+
+# Ignore JSON files 
+*.json
+
+# Ignore environment variable files
+.env
+
+
